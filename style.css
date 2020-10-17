@@ -67,6 +67,18 @@ p {
 }
 
 .links:hover {
- background-color: aqua   
+    background-color: aqua;
+    font-size: 25px;
+    text-decoration:underline;
+        
+}
+
+#map{
+    width:100%;
     
+}
+
+#Contacts{
+    
+    height:200px;
 }
